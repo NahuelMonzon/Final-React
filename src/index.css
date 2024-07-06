@@ -1,0 +1,6 @@
+.itemcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: normal;
+    flex-direction: column;
+}

@@ -1,0 +1,25 @@
+.itemcontainer {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    flex-wrap: wrap;
+    gap: 2px;
+    padding: 20px;
+    min-height: 150px; 
+    color:rgb(41, 91, 199); 
+
+
+    
+}
+.itemListContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  
+    
+    img{
+        width: 160px;
+        height: 160px;
+    }
+    
+}
